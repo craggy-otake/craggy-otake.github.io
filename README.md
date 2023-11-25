@@ -3,8 +3,7 @@
 link: https://craggy-otake.github.io/
 
 ## Education
-* Master | Computer Science | The University of Tokyo (2023~2025(expected))
-  * Miyao lab 
+* Master | Computer Science | The University of Tokyo (2023~2025(expected)) (Miyao lab)
 * Bachelar | Computer Science | The University of Tokyo (2019~2023)
 
 ## Work Experience
