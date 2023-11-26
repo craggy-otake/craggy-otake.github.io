@@ -15,7 +15,7 @@ link: https://craggy-otake.github.io/
   * Built a crawler for LLM data
 * NAIST(2022)
   * (very short period) Research Internship in Watanabe lab 
-* Nikkei (2019)
+* Nikkei (2021)
   * Summer Internship 
   * Data Scientist for Office pass ([url](https://officepass.nikkei.com/))
 * IGPI (2019 ~ 2021)
