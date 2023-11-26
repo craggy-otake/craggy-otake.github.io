@@ -13,6 +13,8 @@ link: https://craggy-otake.github.io/
 * Stability.ai (2023)
   * volunteer
   * Built a crawler for LLM data
+* NAIST(2022)
+  * (very short period) Research Internship in Watanabe lab 
 * Nikkei (2019)
   * Summer Internship 
   * Data Scientist for Office pass ([url](https://officepass.nikkei.com/))
