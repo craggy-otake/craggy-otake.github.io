@@ -11,10 +11,11 @@ link: https://craggy-otake.github.io/
   * Summer Internship
   * Research about Code LLM
 * Stability.ai (2023)
-  * volunteer
+  * Volunteer
   * Built a crawler for LLM data
 * NAIST(2022)
-  * (very short period) Research Internship in Watanabe lab 
+  * (very short period) Research Internship in Watanabe lab
+  * Reserach in Grammatical Error Correction
 * Nikkei (2021)
   * Summer Internship 
   * Data Scientist for Office pass ([url](https://officepass.nikkei.com/))
