@@ -34,7 +34,7 @@ link: https://craggy-otake.github.io/
 ## Project
 * Kakusei Project (2023~2024)
   * 世界観を崩さない吹き替え
-  * one million yen
+  * three million yen
   * [url](https://kakusei.aist.go.jp/)
 * Spring Founders Program (2022)
   * 和文英訳(translation error correction)用のウェブサイトの制作 [url](https://drive.google.com/file/d/1aRrpNERsx2qD5ZTKlQ454o0hxJqJF5Od/view?usp=sharing)
