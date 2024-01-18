@@ -7,6 +7,8 @@ link: https://craggy-otake.github.io/
 * Bachelar Computer Science | The University of Tokyo (2019~2023)
 
 ## Work Experience
+* Sakana.ai (2024)
+  * Internship 
 * Preferred Networks (2023)
   * Summer Internship
   * Research about Code LLM
@@ -30,6 +32,10 @@ link: https://craggy-otake.github.io/
   * 対訳コーパスへの疑似文法誤りの挿入による翻訳誤り訂正データセットの構築 (大嶽匡俊, 宮尾祐介)
 
 ## Project
+* Kakusei Project (2023~2024)
+ * 世界観を崩さない吹き替え
+ * one million yen
+ * [url](https://kakusei.aist.go.jp/)
 * Spring Founders Program (2022)
   * 和文英訳(translation error correction)用のウェブサイトの制作 [url](https://drive.google.com/file/d/1aRrpNERsx2qD5ZTKlQ454o0hxJqJF5Od/view?usp=sharing)
 
